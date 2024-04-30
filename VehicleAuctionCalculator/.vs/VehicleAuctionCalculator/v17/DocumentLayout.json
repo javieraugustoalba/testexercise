@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\testExercise\\VehicleAuctionCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A93E3D3C-D4D4-4ECA-BDA9-1D5E600B97D5}|VehicleAuctionCalculator\\VehicleAuctionCalculator.csproj|c:\\testexercise\\vehicleauctioncalculator\\vehicleauctioncalculator\\controllers\\auctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93E3D3C-D4D4-4ECA-BDA9-1D5E600B97D5}|VehicleAuctionCalculator\\VehicleAuctionCalculator.csproj|solutionrelative:vehicleauctioncalculator\\controllers\\auctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93E3D3C-D4D4-4ECA-BDA9-1D5E600B97D5}|VehicleAuctionCalculator\\VehicleAuctionCalculator.csproj|c:\\testexercise\\vehicleauctioncalculator\\vehicleauctioncalculator\\services\\feecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93E3D3C-D4D4-4ECA-BDA9-1D5E600B97D5}|VehicleAuctionCalculator\\VehicleAuctionCalculator.csproj|solutionrelative:vehicleauctioncalculator\\services\\feecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93E3D3C-D4D4-4ECA-BDA9-1D5E600B97D5}|VehicleAuctionCalculator\\VehicleAuctionCalculator.csproj|c:\\testexercise\\vehicleauctioncalculator\\vehicleauctioncalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93E3D3C-D4D4-4ECA-BDA9-1D5E600B97D5}|VehicleAuctionCalculator\\VehicleAuctionCalculator.csproj|solutionrelative:vehicleauctioncalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93E3D3C-D4D4-4ECA-BDA9-1D5E600B97D5}|VehicleAuctionCalculator\\VehicleAuctionCalculator.csproj|c:\\testexercise\\vehicleauctioncalculator\\vehicleauctioncalculator\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93E3D3C-D4D4-4ECA-BDA9-1D5E600B97D5}|VehicleAuctionCalculator\\VehicleAuctionCalculator.csproj|solutionrelative:vehicleauctioncalculator\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A93E3D3C-D4D4-4ECA-BDA9-1D5E600B97D5}|VehicleAuctionCalculator\\VehicleAuctionCalculator.csproj|c:\\testexercise\\vehicleauctioncalculator\\vehicleauctioncalculator\\models\\fee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A93E3D3C-D4D4-4ECA-BDA9-1D5E600B97D5}|VehicleAuctionCalculator\\VehicleAuctionCalculator.csproj|solutionrelative:vehicleauctioncalculator\\models\\fee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuctionController.cs",
+              "DocumentMoniker": "C:\\testExercise\\VehicleAuctionCalculator\\VehicleAuctionCalculator\\Controllers\\AuctionController.cs",
+              "RelativeDocumentMoniker": "VehicleAuctionCalculator\\Controllers\\AuctionController.cs",
+              "ToolTip": "C:\\testExercise\\VehicleAuctionCalculator\\VehicleAuctionCalculator\\Controllers\\AuctionController.cs",
+              "RelativeToolTip": "VehicleAuctionCalculator\\Controllers\\AuctionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:08:19.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\testExercise\\VehicleAuctionCalculator\\VehicleAuctionCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "VehicleAuctionCalculator\\Program.cs",
+              "ToolTip": "C:\\testExercise\\VehicleAuctionCalculator\\VehicleAuctionCalculator\\Program.cs",
+              "RelativeToolTip": "VehicleAuctionCalculator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:03:16.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FeeCalculator.cs",
+              "DocumentMoniker": "C:\\testExercise\\VehicleAuctionCalculator\\VehicleAuctionCalculator\\Services\\FeeCalculator.cs",
+              "RelativeDocumentMoniker": "VehicleAuctionCalculator\\Services\\FeeCalculator.cs",
+              "ToolTip": "C:\\testExercise\\VehicleAuctionCalculator\\VehicleAuctionCalculator\\Services\\FeeCalculator.cs",
+              "RelativeToolTip": "VehicleAuctionCalculator\\Services\\FeeCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:01:01.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\testExercise\\VehicleAuctionCalculator\\VehicleAuctionCalculator\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "VehicleAuctionCalculator\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\testExercise\\VehicleAuctionCalculator\\VehicleAuctionCalculator\\Models\\Vehicle.cs",
+              "RelativeToolTip": "VehicleAuctionCalculator\\Models\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T19:59:29.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fee.cs",
+              "DocumentMoniker": "C:\\testExercise\\VehicleAuctionCalculator\\VehicleAuctionCalculator\\Models\\Fee.cs",
+              "RelativeDocumentMoniker": "VehicleAuctionCalculator\\Models\\Fee.cs",
+              "ToolTip": "C:\\testExercise\\VehicleAuctionCalculator\\VehicleAuctionCalculator\\Models\\Fee.cs",
+              "RelativeToolTip": "VehicleAuctionCalculator\\Models\\Fee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T19:57:08.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

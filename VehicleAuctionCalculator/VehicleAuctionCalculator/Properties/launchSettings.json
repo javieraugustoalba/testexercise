@@ -1,11 +1,13 @@
 ﻿{
   "$schema": "http://json.schemastore.org/launchsettings.json",
   "iisSettings": {
+    // Configure Windows authentication and anonymous authentication
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:6845",
-      "sslPort": 44367
+      // Configure the IIS Express settings
+      "applicationUrl": "http://localhost:6845", // Set the application URL for IIS Express
+      "sslPort": 44367 // Set the SSL port for IIS Express
     }
   },
   "profiles": {
@@ -13,28 +15,28 @@
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
-      "launchUrl": "swagger",
-      "applicationUrl": "http://localhost:5294",
+      "launchUrl": "swagger", // Specify the URL to launch in the browser
+      "applicationUrl": "http://localhost:5294", // Set the application URL for the HTTP profile
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development" // Set the environment variable for the HTTP profile
       }
     },
     "https": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
-      "launchUrl": "swagger",
-      "applicationUrl": "https://localhost:7245;http://localhost:5294",
+      "launchUrl": "swagger", // Specify the URL to launch in the browser
+      "applicationUrl": "https://localhost:7245;http://localhost:5294", // Set the application URLs for the HTTPS profile
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development" // Set the environment variable for the HTTPS profile
       }
     },
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "swagger",
+      "launchUrl": "swagger", // Specify the URL to launch in the browser
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development" // Set the environment variable for the IIS Express profile
       }
     }
   }

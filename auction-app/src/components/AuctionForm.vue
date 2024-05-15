@@ -1,3 +1,9 @@
+<!-- AuctionForm.vue - Vue.js single-file component -->
+<!-- Architecture: Follows the Vue.js single-file component architecture -->
+<!-- Principles: 
+- Single Responsibility Principle (SRP): The component handles form submission and error handling.
+- Data-Driven Development: Uses data binding for form fields and displays loading state and error messages based on data properties. -->
+
 <template>
   <div>
     <input v-model="basePrice" type="number" placeholder="Base Price" />
@@ -38,4 +44,3 @@ export default {
   }
 };
 </script>
-
